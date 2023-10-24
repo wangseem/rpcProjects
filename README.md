@@ -278,7 +278,6 @@ int32_t getInt32FromNetByte(const char *buf);
 	
 ```
 
-![image-20230928151107498](C:\Users\wangy\AppData\Roaming\Typora\typora-user-images\image-20230928151107498.png)
 
 ### locker
 

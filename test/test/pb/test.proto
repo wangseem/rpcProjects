@@ -1,0 +1,15 @@
+syntax = "proto3";
+option cc_generic_services = true;
+
+message testreq{
+	string testname = 1;
+	string testmethod = 2;
+}
+message testres{
+	string testname = 1;
+	string testmethond = 2;
+}
+service testservice{
+	rpc test(testreq) returns(testres);
+}
+

@@ -1,0 +1,220 @@
+[INFO]	[23-10-16 15:38:20.232]	[4865:4865]	[rocket/net/eventloop.cc:95]	wakeup fd = 4
+[INFO]	[23-10-16 15:38:20.232]	[4865:4865]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:38:20.232]	[4865:4865]	[rocket/net/eventloop.cc:194]	add event success, fd[4]
+[DEBUG]	[23-10-16 15:38:20.232]	[4865:4865]	[rocket/net/timer.cc:14]	timer fd=5
+[INFO]	[23-10-16 15:38:20.232]	[4865:4865]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:38:20.232]	[4865:4865]	[rocket/net/eventloop.cc:194]	add event success, fd[5]
+[INFO]	[23-10-16 15:38:20.232]	[4865:4865]	[rocket/net/eventloop.cc:63]	succ create event loop in thread 4865
+[INFO]	[23-10-16 15:38:20.232]	[4865:4868]	[rocket/net/eventloop.cc:95]	wakeup fd = 8
+[INFO]	[23-10-16 15:38:20.232]	[4865:4868]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:38:20.232]	[4865:4868]	[rocket/net/eventloop.cc:194]	add event success, fd[8]
+[DEBUG]	[23-10-16 15:38:20.232]	[4865:4868]	[rocket/net/timer.cc:14]	timer fd=9
+[INFO]	[23-10-16 15:38:20.232]	[4865:4868]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:38:20.232]	[4865:4868]	[rocket/net/eventloop.cc:194]	add event success, fd[9]
+[INFO]	[23-10-16 15:38:20.232]	[4865:4868]	[rocket/net/eventloop.cc:63]	succ create event loop in thread 4868
+[DEBUG]	[23-10-16 15:38:20.232]	[4865:4868]	[rocket/net/io_thread.cc:54]	IOThread 4868 created, wait start semaphore
+[DEBUG]	[23-10-16 15:38:20.232]	[4865:4865]	[rocket/net/io_thread.cc:24]	IOThread [4868] create success
+[INFO]	[23-10-16 15:38:20.233]	[4865:4869]	[rocket/net/eventloop.cc:95]	wakeup fd = 11
+[INFO]	[23-10-16 15:38:20.233]	[4865:4869]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:38:20.233]	[4865:4869]	[rocket/net/eventloop.cc:194]	add event success, fd[11]
+[DEBUG]	[23-10-16 15:38:20.233]	[4865:4869]	[rocket/net/timer.cc:14]	timer fd=12
+[INFO]	[23-10-16 15:38:20.233]	[4865:4869]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:38:20.233]	[4865:4869]	[rocket/net/eventloop.cc:194]	add event success, fd[12]
+[INFO]	[23-10-16 15:38:20.233]	[4865:4869]	[rocket/net/eventloop.cc:63]	succ create event loop in thread 4869
+[DEBUG]	[23-10-16 15:38:20.233]	[4865:4869]	[rocket/net/io_thread.cc:54]	IOThread 4869 created, wait start semaphore
+[DEBUG]	[23-10-16 15:38:20.233]	[4865:4865]	[rocket/net/io_thread.cc:24]	IOThread [4869] create success
+[INFO]	[23-10-16 15:38:20.233]	[4865:4870]	[rocket/net/eventloop.cc:95]	wakeup fd = 14
+[INFO]	[23-10-16 15:38:20.233]	[4865:4870]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:38:20.233]	[4865:4870]	[rocket/net/eventloop.cc:194]	add event success, fd[14]
+[DEBUG]	[23-10-16 15:38:20.233]	[4865:4870]	[rocket/net/timer.cc:14]	timer fd=15
+[INFO]	[23-10-16 15:38:20.233]	[4865:4870]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:38:20.233]	[4865:4870]	[rocket/net/eventloop.cc:194]	add event success, fd[15]
+[INFO]	[23-10-16 15:38:20.233]	[4865:4870]	[rocket/net/eventloop.cc:63]	succ create event loop in thread 4870
+[DEBUG]	[23-10-16 15:38:20.233]	[4865:4870]	[rocket/net/io_thread.cc:54]	IOThread 4870 created, wait start semaphore
+[DEBUG]	[23-10-16 15:38:20.233]	[4865:4865]	[rocket/net/io_thread.cc:24]	IOThread [4870] create success
+[INFO]	[23-10-16 15:38:20.233]	[4865:4871]	[rocket/net/eventloop.cc:95]	wakeup fd = 17
+[INFO]	[23-10-16 15:38:20.233]	[4865:4871]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:38:20.233]	[4865:4871]	[rocket/net/eventloop.cc:194]	add event success, fd[17]
+[DEBUG]	[23-10-16 15:38:20.233]	[4865:4871]	[rocket/net/timer.cc:14]	timer fd=18
+[INFO]	[23-10-16 15:38:20.233]	[4865:4871]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:38:20.233]	[4865:4871]	[rocket/net/eventloop.cc:194]	add event success, fd[18]
+[INFO]	[23-10-16 15:38:20.233]	[4865:4871]	[rocket/net/eventloop.cc:63]	succ create event loop in thread 4871
+[DEBUG]	[23-10-16 15:38:20.233]	[4865:4871]	[rocket/net/io_thread.cc:54]	IOThread 4871 created, wait start semaphore
+[DEBUG]	[23-10-16 15:38:20.233]	[4865:4865]	[rocket/net/io_thread.cc:24]	IOThread [4871] create success
+[INFO]	[23-10-16 15:38:20.233]	[4865:4865]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:38:20.233]	[4865:4865]	[rocket/net/eventloop.cc:194]	add event success, fd[6]
+[INFO]	[23-10-16 15:38:20.233]	[4865:4865]	[rocket/net/tcp/tcp_server.cc:15]	rocket TcpServer listen sucess on [127.0.0.1:12345]
+[DEBUG]	[23-10-16 15:38:20.233]	[4865:4865]	[rocket/net/io_thread.cc:72]	Now invoke IOThread 4868
+[DEBUG]	[23-10-16 15:38:20.233]	[4865:4865]	[rocket/net/io_thread.cc:72]	Now invoke IOThread 4869
+[DEBUG]	[23-10-16 15:38:20.233]	[4865:4865]	[rocket/net/io_thread.cc:72]	Now invoke IOThread 4870
+[DEBUG]	[23-10-16 15:38:20.233]	[4865:4869]	[rocket/net/io_thread.cc:57]	IOThread 4869 start loop 
+[DEBUG]	[23-10-16 15:38:20.233]	[4865:4865]	[rocket/net/io_thread.cc:72]	Now invoke IOThread 4871
+[DEBUG]	[23-10-16 15:38:20.233]	[4865:4870]	[rocket/net/io_thread.cc:57]	IOThread 4870 start loop 
+[DEBUG]	[23-10-16 15:38:20.233]	[4865:4871]	[rocket/net/io_thread.cc:57]	IOThread 4871 start loop 
+[DEBUG]	[23-10-16 15:38:20.233]	[4865:4868]	[rocket/net/io_thread.cc:57]	IOThread 4868 start loop 
+[ERROR]	[23-10-16 15:38:58.844]	[4865:4865]	[rocket/common/log.cc:20]	progress received invalid signal, will exit
+[INFO]	[23-10-16 15:39:59.110]	[4923:4923]	[rocket/net/eventloop.cc:95]	wakeup fd = 4
+[INFO]	[23-10-16 15:39:59.110]	[4923:4923]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:39:59.110]	[4923:4923]	[rocket/net/eventloop.cc:194]	add event success, fd[4]
+[DEBUG]	[23-10-16 15:39:59.110]	[4923:4923]	[rocket/net/timer.cc:14]	timer fd=5
+[INFO]	[23-10-16 15:39:59.110]	[4923:4923]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:39:59.110]	[4923:4923]	[rocket/net/eventloop.cc:194]	add event success, fd[5]
+[INFO]	[23-10-16 15:39:59.110]	[4923:4923]	[rocket/net/eventloop.cc:63]	succ create event loop in thread 4923
+[INFO]	[23-10-16 15:39:59.110]	[4923:4926]	[rocket/net/eventloop.cc:95]	wakeup fd = 8
+[INFO]	[23-10-16 15:39:59.110]	[4923:4926]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:39:59.110]	[4923:4926]	[rocket/net/eventloop.cc:194]	add event success, fd[8]
+[DEBUG]	[23-10-16 15:39:59.110]	[4923:4926]	[rocket/net/timer.cc:14]	timer fd=9
+[INFO]	[23-10-16 15:39:59.110]	[4923:4926]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:39:59.110]	[4923:4926]	[rocket/net/eventloop.cc:194]	add event success, fd[9]
+[INFO]	[23-10-16 15:39:59.110]	[4923:4926]	[rocket/net/eventloop.cc:63]	succ create event loop in thread 4926
+[DEBUG]	[23-10-16 15:39:59.110]	[4923:4926]	[rocket/net/io_thread.cc:54]	IOThread 4926 created, wait start semaphore
+[DEBUG]	[23-10-16 15:39:59.110]	[4923:4923]	[rocket/net/io_thread.cc:24]	IOThread [4926] create success
+[INFO]	[23-10-16 15:39:59.110]	[4923:4927]	[rocket/net/eventloop.cc:95]	wakeup fd = 11
+[INFO]	[23-10-16 15:39:59.110]	[4923:4927]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:39:59.110]	[4923:4927]	[rocket/net/eventloop.cc:194]	add event success, fd[11]
+[DEBUG]	[23-10-16 15:39:59.110]	[4923:4927]	[rocket/net/timer.cc:14]	timer fd=12
+[INFO]	[23-10-16 15:39:59.110]	[4923:4927]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:39:59.110]	[4923:4927]	[rocket/net/eventloop.cc:194]	add event success, fd[12]
+[INFO]	[23-10-16 15:39:59.110]	[4923:4927]	[rocket/net/eventloop.cc:63]	succ create event loop in thread 4927
+[DEBUG]	[23-10-16 15:39:59.110]	[4923:4927]	[rocket/net/io_thread.cc:54]	IOThread 4927 created, wait start semaphore
+[DEBUG]	[23-10-16 15:39:59.110]	[4923:4923]	[rocket/net/io_thread.cc:24]	IOThread [4927] create success
+[INFO]	[23-10-16 15:39:59.110]	[4923:4928]	[rocket/net/eventloop.cc:95]	wakeup fd = 14
+[INFO]	[23-10-16 15:39:59.110]	[4923:4928]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:39:59.110]	[4923:4928]	[rocket/net/eventloop.cc:194]	add event success, fd[14]
+[DEBUG]	[23-10-16 15:39:59.111]	[4923:4928]	[rocket/net/timer.cc:14]	timer fd=15
+[INFO]	[23-10-16 15:39:59.111]	[4923:4928]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:39:59.111]	[4923:4928]	[rocket/net/eventloop.cc:194]	add event success, fd[15]
+[INFO]	[23-10-16 15:39:59.111]	[4923:4928]	[rocket/net/eventloop.cc:63]	succ create event loop in thread 4928
+[DEBUG]	[23-10-16 15:39:59.111]	[4923:4928]	[rocket/net/io_thread.cc:54]	IOThread 4928 created, wait start semaphore
+[DEBUG]	[23-10-16 15:39:59.111]	[4923:4923]	[rocket/net/io_thread.cc:24]	IOThread [4928] create success
+[INFO]	[23-10-16 15:39:59.111]	[4923:4929]	[rocket/net/eventloop.cc:95]	wakeup fd = 17
+[INFO]	[23-10-16 15:39:59.111]	[4923:4929]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:39:59.111]	[4923:4929]	[rocket/net/eventloop.cc:194]	add event success, fd[17]
+[DEBUG]	[23-10-16 15:39:59.111]	[4923:4929]	[rocket/net/timer.cc:14]	timer fd=18
+[INFO]	[23-10-16 15:39:59.111]	[4923:4929]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:39:59.111]	[4923:4929]	[rocket/net/eventloop.cc:194]	add event success, fd[18]
+[INFO]	[23-10-16 15:39:59.111]	[4923:4929]	[rocket/net/eventloop.cc:63]	succ create event loop in thread 4929
+[DEBUG]	[23-10-16 15:39:59.111]	[4923:4929]	[rocket/net/io_thread.cc:54]	IOThread 4929 created, wait start semaphore
+[DEBUG]	[23-10-16 15:39:59.111]	[4923:4923]	[rocket/net/io_thread.cc:24]	IOThread [4929] create success
+[INFO]	[23-10-16 15:39:59.111]	[4923:4923]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:39:59.111]	[4923:4923]	[rocket/net/eventloop.cc:194]	add event success, fd[6]
+[INFO]	[23-10-16 15:39:59.111]	[4923:4923]	[rocket/net/tcp/tcp_server.cc:15]	rocket TcpServer listen sucess on [127.0.0.1:12345]
+[DEBUG]	[23-10-16 15:39:59.111]	[4923:4923]	[rocket/net/io_thread.cc:72]	Now invoke IOThread 4926
+[DEBUG]	[23-10-16 15:39:59.111]	[4923:4923]	[rocket/net/io_thread.cc:72]	Now invoke IOThread 4927
+[DEBUG]	[23-10-16 15:39:59.111]	[4923:4923]	[rocket/net/io_thread.cc:72]	Now invoke IOThread 4928
+[DEBUG]	[23-10-16 15:39:59.111]	[4923:4926]	[rocket/net/io_thread.cc:57]	IOThread 4926 start loop 
+[DEBUG]	[23-10-16 15:39:59.111]	[4923:4923]	[rocket/net/io_thread.cc:72]	Now invoke IOThread 4929
+[DEBUG]	[23-10-16 15:39:59.111]	[4923:4927]	[rocket/net/io_thread.cc:57]	IOThread 4927 start loop 
+[DEBUG]	[23-10-16 15:39:59.111]	[4923:4928]	[rocket/net/io_thread.cc:57]	IOThread 4928 start loop 
+[DEBUG]	[23-10-16 15:39:59.111]	[4923:4929]	[rocket/net/io_thread.cc:57]	IOThread 4929 start loop 
+[INFO]	[23-10-16 15:47:27.455]	[4923:4923]	[rocket/net/tcp/tcp_acceptor.cc:64]	A client have accpeted succ, peer addr [0.0.0.0:53144]
+[INFO]	[23-10-16 15:47:27.455]	[4923:4923]	[rocket/net/eventloop.cc:179]	WAKE UP
+[DEBUG]	[23-10-16 15:47:27.455]	[4923:4923]	[rocket/net/wakeup_fd_event.cc:21]	success read 8 bytes
+[INFO]	[23-10-16 15:47:27.455]	[4923:4923]	[rocket/net/tcp/tcp_server.cc:66]	TcpServer succ get client, fd=20
+[INFO]	[23-10-16 15:47:27.455]	[4923:4926]	[rocket/net/eventloop.cc:197]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:47:27.455]	[4923:4926]	[rocket/net/eventloop.cc:197]	add event success, fd[20]
+[DEBUG]	[23-10-16 15:47:27.455]	[4923:4926]	[rocket/net/eventloop.cc:103]	read full bytes from wakeup fd[8]
+[DEBUG]	[23-10-16 15:47:27.455]	[4923:4926]	[rocket/net/tcp/tcp_connection.cc:53]	success read 68 bytes from addr[0.0.0.0:53144], client fd[20]
+[DEBUG]	[23-10-16 15:47:27.455]	[4923:4926]	[rocket/net/coder/tinypb_coder.cc:44]	get pk_len = 68
+[DEBUG]	[23-10-16 15:47:27.455]	[4923:4926]	[rocket/net/coder/tinypb_coder.cc:79]	parse msg_id_len=20
+[DEBUG]	[23-10-16 15:47:27.455]	[4923:4926]	[rocket/net/coder/tinypb_coder.cc:86]	parse msg_id=70756541911243993839
+[DEBUG]	[23-10-16 15:47:27.455]	[4923:4926]	[rocket/net/coder/tinypb_coder.cc:100]	parse method_name=QueryService.query_age
+[DEBUG]	[23-10-16 15:47:27.455]	[4923:4926]	[rocket/net/coder/tinypb_coder.cc:123]	parse error_info=
+[DEBUG]	[23-10-16 15:47:27.455]	[4923:4926]	[rocket/net/coder/tinypb_coder.cc:63]	decode end, read all buffer data
+[INFO]	[23-10-16 15:47:27.455]	[4923:4926]	[rocket/net/tcp/tcp_connection.cc:95]	success get request[70756541911243993839] from client[0.0.0.0:53144]
+[INFO]	[23-10-16 15:47:27.456]	[4923:4926]	[rocket/net/rpc/rpc_dispatcher.cc:123]	parse sericve_name[QueryService] and method_name[query_age] from full name [QueryService.query_age]
+[INFO]	[23-10-16 15:47:27.456]	[4923:4926]	[rocket/net/rpc/rpc_dispatcher.cc:77]	70756541911243993839 | get rpc request[]
+[INFO]	[23-10-16 15:47:27.456]	[4923:4926]	[./rocket/net/rpc/rpc_controller.h:16]	RpcController
+[INFO]	[23-10-16 15:47:27.456]	[4923:4926]	[70756541911243993839]	[query_age]	[./rocket/net/rpc/rpc_closure.h:19]	RpcClosure
+[INFO]	[23-10-16 15:47:27.456]	[4923:4926]	[70756541911243993839]	[query_age]	[rocket/net/rpc/rpc_interface.cc:11]	RpcInterface
+[INFO]	[23-10-16 15:47:27.456]	[4923:4926]	[70756541911243993839]	[query_age]	[rocket/net/rpc/rpc_interface.cc:15]	~RpcInterface
+[INFO]	[23-10-16 15:47:27.456]	[4923:4926]	[70756541911243993839]	[query_age]	[rocket/net/rpc/rpc_dispatcher.cc:96]	70756541911243993839 | dispatch success, requesut[], response[res_info: "OK"]
+[DEBUG]	[23-10-16 15:47:27.456]	[4923:4926]	[70756541911243993839]	[query_age]	[rocket/net/coder/tinypb_coder.cc:146]	msg_id = 70756541911243993839
+[DEBUG]	[23-10-16 15:47:27.456]	[4923:4926]	[70756541911243993839]	[query_age]	[rocket/net/coder/tinypb_coder.cc:148]	
+[DEBUG]	[23-10-16 15:47:27.456]	[4923:4926]	[70756541911243993839]	[query_age]	[rocket/net/coder/tinypb_coder.cc:212]	encode message[70756541911243993839] success
+[INFO]	[23-10-16 15:47:27.456]	[4923:4926]	[70756541911243993839]	[query_age]	[rocket/net/eventloop.cc:194]	epoll_event.events = 5
+[DEBUG]	[23-10-16 15:47:27.456]	[4923:4926]	[70756541911243993839]	[query_age]	[rocket/net/eventloop.cc:194]	add event success, fd[20]
+[INFO]	[23-10-16 15:47:27.456]	[4923:4926]	[70756541911243993839]	[query_age]	[./rocket/net/rpc/rpc_closure.h:23]	~RpcClosure
+[INFO]	[23-10-16 15:47:27.456]	[4923:4926]	[70756541911243993839]	[query_age]	[./rocket/net/rpc/rpc_controller.h:17]	~RpcController
+[DEBUG]	[23-10-16 15:47:27.456]	[4923:4926]	[70756541911243993839]	[query_age]	[rocket/net/tcp/tcp_connection.cc:162]	no data need to send to client [0.0.0.0:53144]
+[INFO]	[23-10-16 15:47:27.456]	[4923:4926]	[70756541911243993839]	[query_age]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:47:27.456]	[4923:4926]	[70756541911243993839]	[query_age]	[rocket/net/eventloop.cc:194]	add event success, fd[20]
+[DEBUG]	[23-10-16 15:47:27.456]	[4923:4926]	[70756541911243993839]	[query_age]	[rocket/net/tcp/tcp_connection.cc:53]	success read 0 bytes from addr[0.0.0.0:53144], client fd[20]
+[INFO]	[23-10-16 15:47:27.456]	[4923:4926]	[70756541911243993839]	[query_age]	[rocket/net/tcp/tcp_connection.cc:73]	peer closed, peer addr [0.0.0.0:53144], clientfd [20]
+[DEBUG]	[23-10-16 15:47:27.456]	[4923:4926]	[70756541911243993839]	[query_age]	[rocket/net/eventloop.cc:206]	delete event success, fd[20]
+[DEBUG]	[23-10-16 15:47:29.121]	[4923:4923]	[rocket/net/tcp/tcp_server.cc:82]	TcpConection [fd:20] will delete, state=4
+[DEBUG]	[23-10-16 15:47:29.121]	[4923:4923]	[rocket/net/tcp/tcp_connection.cc:28]	~TcpConnection
+[INFO]	[23-10-16 15:58:12.601]	[4923:4923]	[rocket/net/tcp/tcp_acceptor.cc:64]	A client have accpeted succ, peer addr [0.0.0.0:54750]
+[INFO]	[23-10-16 15:58:12.601]	[4923:4923]	[rocket/net/eventloop.cc:179]	WAKE UP
+[DEBUG]	[23-10-16 15:58:12.601]	[4923:4923]	[rocket/net/wakeup_fd_event.cc:21]	success read 8 bytes
+[INFO]	[23-10-16 15:58:12.601]	[4923:4923]	[rocket/net/tcp/tcp_server.cc:66]	TcpServer succ get client, fd=22
+[INFO]	[23-10-16 15:58:12.601]	[4923:4927]	[rocket/net/eventloop.cc:197]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:58:12.601]	[4923:4927]	[rocket/net/eventloop.cc:197]	add event success, fd[22]
+[DEBUG]	[23-10-16 15:58:12.601]	[4923:4927]	[rocket/net/eventloop.cc:103]	read full bytes from wakeup fd[11]
+[DEBUG]	[23-10-16 15:58:12.601]	[4923:4927]	[rocket/net/tcp/tcp_connection.cc:53]	success read 68 bytes from addr[0.0.0.0:54750], client fd[22]
+[DEBUG]	[23-10-16 15:58:12.601]	[4923:4927]	[rocket/net/coder/tinypb_coder.cc:44]	get pk_len = 68
+[DEBUG]	[23-10-16 15:58:12.601]	[4923:4927]	[rocket/net/coder/tinypb_coder.cc:79]	parse msg_id_len=20
+[DEBUG]	[23-10-16 15:58:12.602]	[4923:4927]	[rocket/net/coder/tinypb_coder.cc:86]	parse msg_id=06058609437539227083
+[DEBUG]	[23-10-16 15:58:12.602]	[4923:4927]	[rocket/net/coder/tinypb_coder.cc:100]	parse method_name=QueryService.query_age
+[DEBUG]	[23-10-16 15:58:12.602]	[4923:4927]	[rocket/net/coder/tinypb_coder.cc:123]	parse error_info=
+[DEBUG]	[23-10-16 15:58:12.602]	[4923:4927]	[rocket/net/coder/tinypb_coder.cc:63]	decode end, read all buffer data
+[INFO]	[23-10-16 15:58:12.602]	[4923:4927]	[rocket/net/tcp/tcp_connection.cc:95]	success get request[06058609437539227083] from client[0.0.0.0:54750]
+[INFO]	[23-10-16 15:58:12.602]	[4923:4927]	[rocket/net/rpc/rpc_dispatcher.cc:123]	parse sericve_name[QueryService] and method_name[query_age] from full name [QueryService.query_age]
+[INFO]	[23-10-16 15:58:12.602]	[4923:4927]	[rocket/net/rpc/rpc_dispatcher.cc:77]	06058609437539227083 | get rpc request[]
+[INFO]	[23-10-16 15:58:12.602]	[4923:4927]	[./rocket/net/rpc/rpc_controller.h:16]	RpcController
+[INFO]	[23-10-16 15:58:12.602]	[4923:4927]	[06058609437539227083]	[query_age]	[./rocket/net/rpc/rpc_closure.h:19]	RpcClosure
+[INFO]	[23-10-16 15:58:12.602]	[4923:4927]	[06058609437539227083]	[query_age]	[rocket/net/rpc/rpc_interface.cc:11]	RpcInterface
+[INFO]	[23-10-16 15:58:12.602]	[4923:4927]	[06058609437539227083]	[query_age]	[rocket/net/rpc/rpc_interface.cc:15]	~RpcInterface
+[INFO]	[23-10-16 15:58:12.602]	[4923:4927]	[06058609437539227083]	[query_age]	[rocket/net/rpc/rpc_dispatcher.cc:96]	06058609437539227083 | dispatch success, requesut[], response[res_info: "OK"]
+[DEBUG]	[23-10-16 15:58:12.602]	[4923:4927]	[06058609437539227083]	[query_age]	[rocket/net/coder/tinypb_coder.cc:146]	msg_id = 06058609437539227083
+[DEBUG]	[23-10-16 15:58:12.602]	[4923:4927]	[06058609437539227083]	[query_age]	[rocket/net/coder/tinypb_coder.cc:148]	
+[DEBUG]	[23-10-16 15:58:12.602]	[4923:4927]	[06058609437539227083]	[query_age]	[rocket/net/coder/tinypb_coder.cc:212]	encode message[06058609437539227083] success
+[INFO]	[23-10-16 15:58:12.602]	[4923:4927]	[06058609437539227083]	[query_age]	[rocket/net/eventloop.cc:194]	epoll_event.events = 5
+[DEBUG]	[23-10-16 15:58:12.602]	[4923:4927]	[06058609437539227083]	[query_age]	[rocket/net/eventloop.cc:194]	add event success, fd[22]
+[INFO]	[23-10-16 15:58:12.602]	[4923:4927]	[06058609437539227083]	[query_age]	[./rocket/net/rpc/rpc_closure.h:23]	~RpcClosure
+[INFO]	[23-10-16 15:58:12.602]	[4923:4927]	[06058609437539227083]	[query_age]	[./rocket/net/rpc/rpc_controller.h:17]	~RpcController
+[DEBUG]	[23-10-16 15:58:12.602]	[4923:4927]	[06058609437539227083]	[query_age]	[rocket/net/tcp/tcp_connection.cc:162]	no data need to send to client [0.0.0.0:54750]
+[INFO]	[23-10-16 15:58:12.602]	[4923:4927]	[06058609437539227083]	[query_age]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 15:58:12.602]	[4923:4927]	[06058609437539227083]	[query_age]	[rocket/net/eventloop.cc:194]	add event success, fd[22]
+[DEBUG]	[23-10-16 15:58:12.602]	[4923:4927]	[06058609437539227083]	[query_age]	[rocket/net/tcp/tcp_connection.cc:53]	success read 0 bytes from addr[0.0.0.0:54750], client fd[22]
+[INFO]	[23-10-16 15:58:12.602]	[4923:4927]	[06058609437539227083]	[query_age]	[rocket/net/tcp/tcp_connection.cc:73]	peer closed, peer addr [0.0.0.0:54750], clientfd [22]
+[DEBUG]	[23-10-16 15:58:12.602]	[4923:4927]	[06058609437539227083]	[query_age]	[rocket/net/eventloop.cc:206]	delete event success, fd[22]
+[DEBUG]	[23-10-16 15:58:14.140]	[4923:4923]	[rocket/net/tcp/tcp_server.cc:82]	TcpConection [fd:22] will delete, state=4
+[DEBUG]	[23-10-16 15:58:14.140]	[4923:4923]	[rocket/net/tcp/tcp_connection.cc:28]	~TcpConnection
+[INFO]	[23-10-16 16:10:41.762]	[4923:4923]	[rocket/net/tcp/tcp_acceptor.cc:64]	A client have accpeted succ, peer addr [0.0.0.0:58980]
+[INFO]	[23-10-16 16:10:41.762]	[4923:4923]	[rocket/net/eventloop.cc:179]	WAKE UP
+[DEBUG]	[23-10-16 16:10:41.762]	[4923:4923]	[rocket/net/wakeup_fd_event.cc:21]	success read 8 bytes
+[INFO]	[23-10-16 16:10:41.762]	[4923:4923]	[rocket/net/tcp/tcp_server.cc:66]	TcpServer succ get client, fd=23
+[INFO]	[23-10-16 16:10:41.762]	[4923:4928]	[rocket/net/eventloop.cc:197]	epoll_event.events = 1
+[DEBUG]	[23-10-16 16:10:41.762]	[4923:4928]	[rocket/net/eventloop.cc:197]	add event success, fd[23]
+[DEBUG]	[23-10-16 16:10:41.762]	[4923:4928]	[rocket/net/eventloop.cc:103]	read full bytes from wakeup fd[14]
+[DEBUG]	[23-10-16 16:10:41.762]	[4923:4928]	[rocket/net/tcp/tcp_connection.cc:53]	success read 68 bytes from addr[0.0.0.0:58980], client fd[23]
+[DEBUG]	[23-10-16 16:10:41.762]	[4923:4928]	[rocket/net/coder/tinypb_coder.cc:44]	get pk_len = 68
+[DEBUG]	[23-10-16 16:10:41.762]	[4923:4928]	[rocket/net/coder/tinypb_coder.cc:79]	parse msg_id_len=20
+[DEBUG]	[23-10-16 16:10:41.762]	[4923:4928]	[rocket/net/coder/tinypb_coder.cc:86]	parse msg_id=47038343470842540785
+[DEBUG]	[23-10-16 16:10:41.762]	[4923:4928]	[rocket/net/coder/tinypb_coder.cc:100]	parse method_name=QueryService.query_age
+[DEBUG]	[23-10-16 16:10:41.762]	[4923:4928]	[rocket/net/coder/tinypb_coder.cc:123]	parse error_info=
+[DEBUG]	[23-10-16 16:10:41.762]	[4923:4928]	[rocket/net/coder/tinypb_coder.cc:63]	decode end, read all buffer data
+[INFO]	[23-10-16 16:10:41.762]	[4923:4928]	[rocket/net/tcp/tcp_connection.cc:95]	success get request[47038343470842540785] from client[0.0.0.0:58980]
+[INFO]	[23-10-16 16:10:41.762]	[4923:4928]	[rocket/net/rpc/rpc_dispatcher.cc:123]	parse sericve_name[QueryService] and method_name[query_age] from full name [QueryService.query_age]
+[INFO]	[23-10-16 16:10:41.762]	[4923:4928]	[rocket/net/rpc/rpc_dispatcher.cc:77]	47038343470842540785 | get rpc request[]
+[INFO]	[23-10-16 16:10:41.762]	[4923:4928]	[./rocket/net/rpc/rpc_controller.h:16]	RpcController
+[INFO]	[23-10-16 16:10:41.762]	[4923:4928]	[47038343470842540785]	[query_age]	[./rocket/net/rpc/rpc_closure.h:19]	RpcClosure
+[INFO]	[23-10-16 16:10:41.762]	[4923:4928]	[47038343470842540785]	[query_age]	[rocket/net/rpc/rpc_interface.cc:11]	RpcInterface
+[INFO]	[23-10-16 16:10:41.762]	[4923:4928]	[47038343470842540785]	[query_age]	[rocket/net/rpc/rpc_interface.cc:15]	~RpcInterface
+[INFO]	[23-10-16 16:10:41.762]	[4923:4928]	[47038343470842540785]	[query_age]	[rocket/net/rpc/rpc_dispatcher.cc:96]	47038343470842540785 | dispatch success, requesut[], response[res_info: "OK"]
+[DEBUG]	[23-10-16 16:10:41.762]	[4923:4928]	[47038343470842540785]	[query_age]	[rocket/net/coder/tinypb_coder.cc:146]	msg_id = 47038343470842540785
+[DEBUG]	[23-10-16 16:10:41.762]	[4923:4928]	[47038343470842540785]	[query_age]	[rocket/net/coder/tinypb_coder.cc:148]	
+[DEBUG]	[23-10-16 16:10:41.762]	[4923:4928]	[47038343470842540785]	[query_age]	[rocket/net/coder/tinypb_coder.cc:212]	encode message[47038343470842540785] success
+[INFO]	[23-10-16 16:10:41.762]	[4923:4928]	[47038343470842540785]	[query_age]	[rocket/net/eventloop.cc:194]	epoll_event.events = 5
+[DEBUG]	[23-10-16 16:10:41.762]	[4923:4928]	[47038343470842540785]	[query_age]	[rocket/net/eventloop.cc:194]	add event success, fd[23]
+[INFO]	[23-10-16 16:10:41.762]	[4923:4928]	[47038343470842540785]	[query_age]	[./rocket/net/rpc/rpc_closure.h:23]	~RpcClosure
+[INFO]	[23-10-16 16:10:41.762]	[4923:4928]	[47038343470842540785]	[query_age]	[./rocket/net/rpc/rpc_controller.h:17]	~RpcController
+[DEBUG]	[23-10-16 16:10:41.762]	[4923:4928]	[47038343470842540785]	[query_age]	[rocket/net/tcp/tcp_connection.cc:162]	no data need to send to client [0.0.0.0:58980]
+[INFO]	[23-10-16 16:10:41.762]	[4923:4928]	[47038343470842540785]	[query_age]	[rocket/net/eventloop.cc:194]	epoll_event.events = 1
+[DEBUG]	[23-10-16 16:10:41.762]	[4923:4928]	[47038343470842540785]	[query_age]	[rocket/net/eventloop.cc:194]	add event success, fd[23]
+[DEBUG]	[23-10-16 16:10:41.763]	[4923:4928]	[47038343470842540785]	[query_age]	[rocket/net/tcp/tcp_connection.cc:53]	success read 0 bytes from addr[0.0.0.0:58980], client fd[23]
+[INFO]	[23-10-16 16:10:41.763]	[4923:4928]	[47038343470842540785]	[query_age]	[rocket/net/tcp/tcp_connection.cc:73]	peer closed, peer addr [0.0.0.0:58980], clientfd [23]
+[DEBUG]	[23-10-16 16:10:41.763]	[4923:4928]	[47038343470842540785]	[query_age]	[rocket/net/eventloop.cc:206]	delete event success, fd[23]
+[DEBUG]	[23-10-16 16:10:44.162]	[4923:4923]	[rocket/net/tcp/tcp_server.cc:82]	TcpConection [fd:23] will delete, state=4
+[DEBUG]	[23-10-16 16:10:44.163]	[4923:4923]	[rocket/net/tcp/tcp_connection.cc:28]	~TcpConnection

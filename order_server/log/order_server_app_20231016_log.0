@@ -1,0 +1,6 @@
+[INFO]	[23-10-16 15:47:27.456]	[4923:4926]	[70756541911243993839]	[query_age]	[interface/query_age.cc:27]	In|request:{}
+[INFO]	[23-10-16 15:47:27.456]	[4923:4926]	[70756541911243993839]	[query_age]	[interface/query_age.cc:31]	Out|response:{res_info: "OK"}
+[INFO]	[23-10-16 15:58:12.602]	[4923:4927]	[06058609437539227083]	[query_age]	[interface/query_age.cc:27]	In|request:{}
+[INFO]	[23-10-16 15:58:12.602]	[4923:4927]	[06058609437539227083]	[query_age]	[interface/query_age.cc:31]	Out|response:{res_info: "OK"}
+[INFO]	[23-10-16 16:10:41.762]	[4923:4928]	[47038343470842540785]	[query_age]	[interface/query_age.cc:27]	In|request:{}
+[INFO]	[23-10-16 16:10:41.762]	[4923:4928]	[47038343470842540785]	[query_age]	[interface/query_age.cc:31]	Out|response:{res_info: "OK"}

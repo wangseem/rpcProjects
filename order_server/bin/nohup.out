@@ -1,0 +1,6 @@
+LOG -- CONFIG LEVEL[DEBUG], FILE_NAME[order_server],FILE_PATH[../log/] MAX_FILE_SIZE[1000000000 B], SYNC_INTEVAL[500 ms]
+Server -- PORT[12345], IO Threads[4]
+Init log level [DEBUG]
+LOG -- CONFIG LEVEL[DEBUG], FILE_NAME[order_server],FILE_PATH[../log/] MAX_FILE_SIZE[1000000000 B], SYNC_INTEVAL[500 ms]
+Server -- PORT[12345], IO Threads[4]
+Init log level [DEBUG]

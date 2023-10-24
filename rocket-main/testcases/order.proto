@@ -1,0 +1,19 @@
+syntax = "proto3";//语法是protobuf3
+option cc_generic_services = true; //要生成service；
+//结构体
+//下单请求结构体
+message makeOrderRequest {
+  int32 price = 1;
+  string goods = 2;
+}
+//下单响应结构体
+message makeOrderResponse {
+  int32 ret_code = 1;
+  string res_info = 2;
+  string order_id = 3;
+}
+//服务名
+service Order {
+  //方法名
+  rpc makeOrder(makeOrderRequest) returns (makeOrderResponse);
+}
